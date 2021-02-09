@@ -1,0 +1,2 @@
+Flask==1.1.1
+git+https://github.com/Binance-docs/Binance_Futures_python.git
